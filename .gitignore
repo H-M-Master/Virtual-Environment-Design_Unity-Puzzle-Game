@@ -34,7 +34,6 @@
 
 # Platform/build outputs
 [Bb]uild*/
-*.apk
 *.aab
 *.app
 *.xcodeproj
