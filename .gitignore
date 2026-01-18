@@ -1,0 +1,58 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Uu]ser[Ss]ettings/
+
+# Unity cache
+[Aa]ddressableAssetsData/*/*.bin*
+[Aa]ssets/AssetStoreTools*
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Visual Studio / VS Code
+.vs/
+.idea/
+*.user
+*.userprefs
+*.csproj
+*.sln
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Platform/build outputs
+[Bb]uild*/
+*.apk
+*.aab
+*.app
+*.xcodeproj
+*.xcworkspace
+
+# Logs and crash reports
+*.stacktrace
+*.log
+*.crash
+
+# Unity auto-generated
+[Dd]ebug*/
+[Ss]taging*/
+[Tt]ests*/
+
+# Package manager
+[Pp]ackages/packages-lock.json
+
+# OS clutter
+.DS_Store
+Thumbs.db
